@@ -22,7 +22,7 @@ O Projeto **Dioshopping** é uma pequena loja de camisas esportivas. Este projet
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/Djaysson/Bootcamp-Inter-Frontend-Developer.git
+  $ git clone https://github.com/Djaysson/dio-shopping.git
 ```
 
 2. Executando a Aplicação:
